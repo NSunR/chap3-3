@@ -1,5 +1,5 @@
 {
-  "name": "01_toolkit_prac",
+  "name": "03_axios_prac",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,12 +7,12 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.1.2",
     "json-server": "^0.17.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.4",
     "react-scripts": "5.0.1",
-    "redux": "^4.2.0",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
